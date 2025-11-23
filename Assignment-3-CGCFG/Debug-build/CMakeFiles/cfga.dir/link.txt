@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/cfga.dir/CFGA.o -o /home/fxl666/assignment-3-cgcfg-FXL-niu/Assignment-3-CGCFG/cfga  libcfga_lib.a 
